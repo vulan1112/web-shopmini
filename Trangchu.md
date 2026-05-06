@@ -31,3 +31,8 @@
 ***Cấu hình và thêm các chức năng cho và vai trò của từng use***
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3b6f9f6-0056-4f14-9d3b-2057a3138746" />
+
+phần kiểm duyệt sản phẩm
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e46983b-6a6e-45df-a073-607162cab2f1" />
+
