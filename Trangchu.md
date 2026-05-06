@@ -27,3 +27,7 @@
 <img width="1894" height="1019" alt="image" src="https://github.com/user-attachments/assets/aacdff7f-09db-49f6-9c87-e40a130c0f91" />
 
 <img width="1918" height="1064" alt="image" src="https://github.com/user-attachments/assets/bb0eab0a-8204-402b-9c5a-52545041b0cd" />
+
+***Cấu hình và thêm các chức năng cho và vai trò của từng use***
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3b6f9f6-0056-4f14-9d3b-2057a3138746" />
